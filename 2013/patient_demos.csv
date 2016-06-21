@@ -1,0 +1,24 @@
+ID	Sample	Sex	Age	Tumor Location	Staging	N stage	Differentiation Staging	smoking
+31 T1/T2		M	62	mandible	T4aN0Mx	0	Well	40 pack years
+32 T1/T2		F	70	maxilla	T1N0Mx	0	Well	none
+37 T1/T2	1-2	exclude						
+38 T1/T2	3-4	F	62	tongue	T1N0Mx	0	Moderate	none
+42 T1/T2		M	37	tongue	T2N0Mx	0	Well	none
+44 T1/T2		M	75	tongue	T1N0Mx	0	Well	46 pack years
+46 T1/T2		M	59	buccal mucosa	T2N1Mx	1	Well	none
+47 T1/T2		M	60	mandible	T1N2bMx	2b	Moderate	none
+49 T1/T2	5-6	F	84	mandible	T3N0Mx	0	Moderate	2 pack years
+54 T1/T2		M	56	tongue	T1N0Mx	0	Moderate	30 pack years
+57 T1/T2	7-8	M	59	mandible	T4aN2bMx	2b	Moderate	30 year use
+58 T1/T2	9-10	F	84	maxilla	T2N0Mx	0	Moderate	60 pack years
+66 T1/T2		F	59	mandible	T1N1Mx	1	Poor	none
+68 T1/T2	11-12	F	93	maxilla	T4aN0Mx	0	Well	none
+70 T1/T2		F	60	mandible	T3N2bMx	2b	Moderate	none
+73 T1/T2		M	62	maxilla	T4aN0Mx	0	Well	5 pack years
+74 T1/T2		F	66	tongue	T2N0Mx	0	Well	none
+81 T1/T2	13-14	F	84	floor of mouth	T4aN0Mx	0	Poor	12 pack years
+82 T1/T2	15-16	F	65	tongue	T1N0Mx	0	Moderate	20 pack years
+84 T1/T2	17-18	M	66	maxilla	T1N0Mx	0	Well	past use
+85 T1/T2	19-20	F	53	mandible	T2N1Mx	1	Poor	none
+87 T1/T2	21-22	F	58	mandible	T3N0Mx	0	Well	none
+89 T1/T2	23-24	F	85	tongue	T1N0Mx	0	Well	none

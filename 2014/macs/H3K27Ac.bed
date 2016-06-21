@@ -1,0 +1,16 @@
+track  name="GM12878" description="H3K27Ac Mark (Often Found Near Regulatory Elements) on GM12878 Cells from ENCODE"
+chr1	39999	40200	chr1.1
+chr1	40600	40825	chr1.2
+chr1	40900	41125	chr1.3
+chr1	41375	41600	chr1.4
+chr1	41850	42225	chr1.5
+chr1	42925	43300	chr1.6
+chr1	43450	43900	chr1.7
+chr1	44125	44550	chr1.8
+chr1	45600	45800	chr1.9
+chr1	46200	46800	chr1.10
+chr1	46925	47150	chr1.11
+chr1	47400	47700	chr1.12
+chr1	47725	47925	chr1.13
+chr1	48975	49175	chr1.14
+chr1	49625	49825	chr1.15
